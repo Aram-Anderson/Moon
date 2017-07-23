@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Things I Feel Like Talking About
+bio:                'Sometimes I like writing about things.'
+description:        "I'm learning Ruby/Rails. I'm also learning html, CSS, and some js, plus anything else that catches my eye in the process. In June of 2017, I'll be attending The Turing School to get some formal training in what the hell I'm doing, but till then, I'm shooting in the dark. This site is my first attempt at making something that wasn't from a point and click site generator, and it will be changing frequently as I learn new things. It's a Jekyll site now, but the goal is to rebuild it in Rails at some point."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/dunes.jpg'
+background:         'assets/img/invertbg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                #https://taylantatli.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -26,31 +26,31 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   'mrpants-io-4'
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        'UA-89828330-1'
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            aram987
+#facebook:           username
+github-url:         Aram-Anderson
+email:              aram.j.anderson@gmail.com
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://twitter.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
