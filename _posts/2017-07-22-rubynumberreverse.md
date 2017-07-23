@@ -88,4 +88,4 @@ string:   3.890000   0.050000   3.940000 (  4.001591)
 math:     5.700000   0.070000   5.770000 (  5.852306)
 ```
 
-That was not what I expected! The `to_s` approach actually outperformed the mathematical approach by about 150%. I will certainly concede that I'm very likely missing a more efficient way to do this mathematically, and if you have some ideas, leave me a comment. I'd be happy to rerun benchmarks and update this post with better solutions.
+That was not what I expected! The `to_s` approach actually outperformed the mathematical approach by about 50%. I will certainly concede that I'm very likely missing a more efficient way to do this mathematically, and if you have some ideas, leave me a comment. I'd be happy to rerun benchmarks and update this post with better solutions.
