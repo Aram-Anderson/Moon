@@ -5,7 +5,7 @@ description:        "I'm learning Ruby/Rails. I'm also learning html, CSS, and s
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/dunes.jpg'
-background:         'assets/img/cube.png'
+background:         'assets/img/cube2.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://mrpants.io
