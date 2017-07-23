@@ -11,7 +11,7 @@ comments: true
 
 Offhand, I can't think of when I needed to reverse a number, but I know there's been an occasion or two. With a dynamically typed language like ruby, it's easy to simply convert the number to a string class object and use the built in `.reverse` method. I probably did that when it came up, and thought nothing of it.
 
-At school yesterday, I had a chance to meet with one of my mentors, and he brought up the inefficiency of the integer to string solution to this problem. He implied that solving this mathematically is a far better way to do it from an efficiency standpoint. It was just an offhand comment in the course of a larger conversation, but it made me think about the problem, and I wanted to learn what the better solution might be.
+At school yesterday, I had a chance to meet with one of my mentors, and he brought up using a mathematical solution to this problem. It was just an offhand comment in the course of a larger conversation, but it made me think about the problem, and I wanted to learn what the better solution might be.
 
 If we define a ruby method to solve this the int to string to int way, it would look something like this:
 
