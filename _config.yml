@@ -4,7 +4,7 @@ bio:                'Backend Developer Working With Ruby/Rails'
 description:        "A person doing things with computers."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/dunes.jpg'
+logo:               'assets/img/aram3.png'
 background:         'assets/img/geometric-wallpaper-6.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
