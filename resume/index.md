@@ -8,4 +8,4 @@ comments: false
 
 ![alt text][image]
 
-[image]: /assets/img/Creddle_Resume.jpg "Tag filtered page"
+[image]: /assets/img/ResumeOCT2017.jpg "Tag filtered page"
