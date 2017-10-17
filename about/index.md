@@ -8,7 +8,7 @@ comments: true
 
 <center>Just a human learning to talk to non-human things</center>
 
-I'm a student at [The Turing School](https://www.turing.io/) at the moment. I'll be done with that adventure in January of 2018. I'm absolutely loving the experience in the meantime. I can't recommend that place enough. Drop me a line if you have any questions about it. I'd be happy to chat with you.
+I'm a student at [The Turing School](https://www.turing.io/) at the moment. I'm absolutely loving the experience. I can't recommend that place enough. Drop me a line if you have any questions about it. I'd be happy to chat with you.
 
 Here are some things about me:
 
