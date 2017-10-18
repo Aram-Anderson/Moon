@@ -3,7 +3,6 @@ layout: post
 title:  "Tutorial For Making a Simple Ruby Number Guessing Game Part 3"
 date:   2017-05-24
 excerpt: "It creates a random number, stores it as a `secret_number` variable, then gets a guess from the..."
-project: true
 tag:  
 - tech
 comments: true

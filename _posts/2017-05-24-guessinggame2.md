@@ -3,7 +3,6 @@ layout: post
 title:  "Tutorial For Making a Simple Ruby Number Guessing Game Part 2"
 date:   2017-05-24
 excerpt: "Pretty dull, right? Let's make it a little more interesting...."
-project: true
 tag:  
 - tech
 comments: true

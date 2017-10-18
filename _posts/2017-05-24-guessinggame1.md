@@ -3,7 +3,6 @@ layout: post
 title:  "Tutorial For Making a Simple Ruby Number Guessing Game Part 1"
 date:   2017-05-24
 excerpt: "As part of the gear up for Turing, they send out a prework package. It's basically..."
-project: true
 tag:  
 - tech
 comments: true

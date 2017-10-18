@@ -3,7 +3,6 @@ layout: post
 title:  "Changing Themes in Jekyll"
 date:   2017-01-15
 excerpt: "After my site had been up for a brief period, I decided..."
-project: true
 tag:  
 - tech
 comments: true
