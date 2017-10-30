@@ -8,4 +8,4 @@ comments: false
 
 ![alt text][image]
 
-[image]: /assets/img/ResumeOCT2017.jpg "Tag filtered page"
+[image]: /assets/img/ResumeOCT29.jpg "Tag filtered page"
